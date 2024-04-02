@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521544466601",
+    "project_id": "flickflix-552c7",
+    "storage_bucket": "flickflix-552c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521544466601:android:c87d0b011e3c4f0b90a9b8",
+        "android_client_info": {
+          "package_name": "com.flickflix.flickflix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXLEESSu72GHpVEoCmxPG4OXWL4wx2Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
